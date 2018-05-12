@@ -1,0 +1,30 @@
+_repo: The-Story-of-Grenfell-of-the-Labrador--A-Boy-s-Life-of-Wilfred-T.-Grenfell_16809
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wallace, Dillon
+    birthdate: 1863
+    deathdate: 1939
+    gutenberg_agent_id: '1361'
+    url: http://www.gutenberg.org/2009/agents/1361
+    wikipedia: http://en.wikipedia.org/wiki/Dillon_Wallace
+description: ''
+gutenberg_issued: '2005-10-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16809'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F1001'
+- !lcsh 'Labrador (N.L.) -- Juvenile literature'
+- !lcsh 'Physicians -- Newfoundland and Labrador -- Labrador -- Biography -- Juvenile
+  literature'
+- !lcsh 'Grenfell, Wilfred Thomason, Sir, 1865-1940 -- Juvenile literature'
+title: 'The Story of Grenfell of the Labrador: A Boy''s Life of Wilfred T. Grenfell'
+url: http://www.gutenberg.org/ebooks/16809

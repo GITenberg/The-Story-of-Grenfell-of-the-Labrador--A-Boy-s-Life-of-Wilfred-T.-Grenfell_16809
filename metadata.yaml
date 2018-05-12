@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1361
     wikipedia: http://en.wikipedia.org/wiki/Dillon_Wallace
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16809#The-Story-of-Grenfell-of-the-Labrador--A-Boy-s-Life-of-Wilfred-T.-Grenfell
 gutenberg_issued: '2005-10-07'
 gutenberg_type: Text
 identifiers:
